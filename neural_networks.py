@@ -1,3 +1,6 @@
+# Code without using library functions
+
+
 import matplotlib 
 import matplotlib.pyplot as plt
 import pandas as pd
